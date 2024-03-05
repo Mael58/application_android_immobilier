@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Immobilier</string>
+
+    <string-array name="Etat">
+        <item>Disponible</item>
+        <item>Loué</item>
+        <item>Vendu</item>
+
+    </string-array>
+
+    <string-array name="Type">
+        <item>Appartements</item>
+        <item>Maison</item>
+
+    </string-array>
+
+
+
+
+</resources>

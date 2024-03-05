@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "358426142431",
+    "firebase_url": "https://immobilier-4fe0a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "immobilier-4fe0a",
+    "storage_bucket": "immobilier-4fe0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358426142431:android:228044abd3f7c0212f2b6a",
+        "android_client_info": {
+          "package_name": "com.example.immobilier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUduZOlRW4WSduA8cyeqf4OMt__7xtJuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
